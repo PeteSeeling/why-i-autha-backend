@@ -9,8 +9,5 @@ CREATE TABLE github_users (
   avatar TEXT
 );
 
-INSERT INTO
- github_users (username, email, avatar)
 
- VALUES ('fake_github_user', 'not-real@example.com','2')
 
