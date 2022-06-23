@@ -9,5 +9,3 @@ CREATE TABLE github_users (
   avatar TEXT
 );
 
-
-
